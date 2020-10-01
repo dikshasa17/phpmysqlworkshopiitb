@@ -1,6 +1,8 @@
 <?php
-function writeName() {
-   return "Ramachandra.";
-}
-echo "My name is " . writeName() . "<br>";
+echo "My name is ";
+ function writename()
+ {
+	 echo "Ramachandra";
+ }
+ writename();
 ?>
