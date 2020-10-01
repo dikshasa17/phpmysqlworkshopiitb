@@ -1,5 +1,5 @@
 <html>
- <form action ='q6_1.php' method ='GET'>
+ <form action ='q6_1_special_variables_html.php' method ='GET'>
   <input type ='number' name ='sidea'><br>
   <input type ='number' name ='sideb'><br>
   <input type ='number' name = 'sidec'><br>

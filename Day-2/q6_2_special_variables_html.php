@@ -1,5 +1,5 @@
  <html>
-<form action = 'q6_2.php' method ='POST'>
+<form action = 'q6_2_special_variables_html.php' method ='POST'>
 <label for="sname">Name of the student:</label>
   <input type="text" id="sname" name="sname"><br>
   <h4>Marks of the student</h4>
