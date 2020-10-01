@@ -12,4 +12,5 @@ else
 {  
  echo "The $number1 is an odd number.";
 }
+
 ?>
